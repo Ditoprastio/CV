@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+h1,
+h2 {
+  font-weight: normal;
+}
+.dito {
+  height: 250px;
+}
